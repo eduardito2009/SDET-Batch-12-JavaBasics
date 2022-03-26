@@ -1,0 +1,12 @@
+Methods.- We can pass arguments
+          we can pass conditions
+          dynamic return Type
+String.-First method .toUpperCase method
+for loop remember
+ s1 s2 s3
+   for(s1;s2;se3){
+   Block of code
+   }
+   s1 execute one time before starting the loop
+   s2 is nothing but the condition the one we want to put inside our code
+   s3 execute the code
